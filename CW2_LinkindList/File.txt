@@ -1,0 +1,9 @@
+Name- anne susan
+Seat- 11
+Time- 84s
+
+Max Length- 8
+Max Time- 13
+Min Time- 8
+Average Time- 10
+
